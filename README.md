@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor | My Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-html-js-css-bootstrap-r1NJ0ru4q)
+- Solution URL: [Frontend Mentor | My Solution](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-css-boostrap-js-B19rUo1Sq)
 - Live Site URL: [Halibal | Intro Component With Sign-Up Form](https://halibal.github.io/intro-component-with-signup-form/)
 
 ### Built with
