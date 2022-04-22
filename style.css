@@ -26,14 +26,14 @@
 
 body {
     height: 100vh;
-    background-image: url('/images/bg-intro-desktop.png');
+    background-image: url('bg-intro-desktop.png');
     background-color: rgba(255, 0, 0, 0.5);
     font-size: 16px;
 }
 
 @media screen and (max-width: 576px) {
     body {
-        background-image: url('/images/bg-intro-mobile.png');
+        background-image: url('bg-intro-mobile.png');
         background-size: cover;
     }
 }
@@ -103,7 +103,7 @@ body {
 }
 
 .svgImage {
-    background-image: url(/images/icon-error.svg);
+    background-image: url('icon-error.svg');
     background-repeat: no-repeat;
     background-position: 95% 50%;
 }
