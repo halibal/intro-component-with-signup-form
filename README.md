@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-- ![My screenshot](https://raw.githubusercontent.com/halibal/interactive-rating-component/main/interactive_rating_component_my_solution.png)
+- ![My screenshot](https://raw.githubusercontent.com/halibal/intro-component-with-signup-form/main/Intro_Component_With_Signup_Form.png)
 
 ### Links
 
 - Solution URL: [Frontend Mentor | My Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-html-js-css-bootstrap-r1NJ0ru4q)
-- Live Site URL: [Halibal | Intro Component With Sign-Up Form](https://halibal.github.io/interactive-rating-component/)
+- Live Site URL: [Halibal | Intro Component With Sign-Up Form](https://halibal.github.io/intro-component-with-signup-form/)
 
 ### Built with
 
@@ -50,6 +50,7 @@ Users should be able to:
 - [W3Schools | JSref Match](https://www.w3schools.com/jsref/jsref_match.asp)
 - [Bootstrap | Flex](https://getbootstrap.com/docs/5.0/utilities/flex/)
 - [Regex Email Pattern](https://www.w3resource.com/javascript/form/email-validation.php)
+- [Solution to Background Image Not Showing on Github](https://github.community/t/the-background-image-is-not-displaying-when-i-publish-me-site-using-github/11063/12)
 
 ## Author
 
@@ -59,4 +60,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-Thank you Zafer Erol for helping me on the completion of this project.
+I sincerely thank [Ayse Varlik](https://www.frontendmentor.io/profile/aysevarlik) and [@pyaetheiN](https://www.frontendmentor.io/profile/pyaetheiN) for the tips helping me on the completion of this project.
