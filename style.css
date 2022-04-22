@@ -1,0 +1,113 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+    color: hsl(249, 10%, 26%);
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+    text-decoration: none;
+}
+
+.colors {
+    /* primary */
+    color: hsl(0, 100%, 74%);
+    color: hsl(154, 59%, 51%);
+    /* neutral */
+    color: hsl(249, 10%, 26%);
+    color: hsl(246, 25%, 77%);
+    /* accent */
+    color: hsl(248, 32%, 49%);
+    /* font size */
+    font-size: 16px;
+    /* font family */
+    font-family: Poppins;
+}
+
+body {
+    height: 100vh;
+    background-image: url('/images/bg-intro-desktop.png');
+    background-color: rgba(255, 0, 0, 0.5);
+    font-size: 16px;
+}
+
+@media screen and (max-width: 576px) {
+    body {
+        background-image: url('/images/bg-intro-mobile.png');
+        background-size: cover;
+    }
+}
+
+@media screen and (min-width: 1080px) {
+    .biggerFont h1 {
+        font-size: 55px;
+    }
+}
+
+
+.shadowBottom {
+    box-shadow: 0px 8px rgba(255, 0, 0, 0.2);
+}
+
+.biggerFont p {
+    font-size: large;
+}
+
+.formHeight {
+    height: 50px;
+}
+
+.formHeight:active {
+    border: none;
+}
+
+
+.borderRadius {
+    border-radius: 0.6em;
+}
+
+.borderGrey {
+    border: 1px;
+    border-style: solid;
+    border-color: hsl(246, 25%, 77%);
+}
+
+.borderWarning {
+    border-color: hsl(0, 100%, 74%);
+}
+
+.bg-purple {
+    background-color: hsl(248, 32%, 49%);
+    height: 60px;
+}
+
+.bg-green {
+    background-color: hsl(154, 59%, 51%);
+    height: 60px;
+}
+
+.terms p {
+    font-size: 12px;
+    color: hsl(246, 25%, 77%);
+}
+
+.terms p a {
+    color: hsl(0, 100%, 74%);
+    font-weight: bold;
+}
+
+.warningTxt {
+    color: hsl(0, 100%, 74%);
+    font-style: italic;
+    font-size: small;
+}
+
+.svgImage {
+    background-image: url(/images/icon-error.svg);
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+}
+
+.svgImage::placeholder {
+    color: hsl(0, 100%, 74%);
+}
